@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Gold Payment</string>
+    <string name="copyright">Copyright © 2022 Akreel</string>
+    <string name="about_text">This is Zakat Gold Payment Calculator create by Akmal and Syareel</string>
+    <string name="developer1">NAME: MUHAMMAD AKMAL BIN AHMAD NAZRI</string>
+    <string name="id1">STUDENT ID: 2020819092</string>
+    <string name="developer2">NAME: MUHAMMAD SYAREEL AIMAN BIN MD SUKERI</string>
+    <string name="id2">STUDENT ID: 2020456158</string>
+    <string name="group">GROUP: RCS2515A</string>
+    <string name="prog">PROGRAMME: ICT650</string>
+    <string name="link"><a href="https://github.com/akmlnzri/zakatgoldpayment.git">github.com/akmlnzri/</a></string>
+    <string name="line">_____________________________________________________________</string>
+</resources>

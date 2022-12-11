@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioGroup" type="id" />
+    <item name="Zakat_Gold_Payment" type="id" />
+    <item name="ZakatGoldPayment" type="id" />
+</resources>
